@@ -53,7 +53,7 @@ To this repository, we have uploaded:
   - UNSEEN_prescription-based_caseness_over_time.ipynb
   - UNSEEN_prescribing_trends.ipynb
   - UNSEEN_patients_with_Rx_over_time.ipynb
-- a Jupyter notebook summarising our main findings.
+  - a Jupyter notebook summarising our main findings.
   - UNSEEN_report_results.ipynb
 
 All scripts are written in Jupyter notebooks, almost exlcusively in Python, but with some R.  
