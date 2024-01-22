@@ -1,5 +1,14 @@
 Analysis Output and methodology
 
+## What Connected Bradford data tables were used?
+yhcr-prd-phm-bia-core.
+	CB_FDM_PrimaryCare_V7.
+		tbl_srappointment
+		tbl_srcode
+		tbl_srpatientregistration 
+		tbl_srprimarycaremedication
+
+
 ## How did we define our cohort?
 Our study population was intended to represent patients within the Connected Bradford database who have or might have complex mental health difficulties. As such, it comprises anyone with mental ill-health but who does not have a diagnosis of a serious mental illness (specifically, schizophrenia or bipolar disorder). This was  defined as:
 - any person with a record in the primary-care tables within the Connected Bradford database;
